@@ -1,4 +1,3 @@
 # exercise-repo
 Repo made for exercise
-adding changes!
-
+We resolved the conflict!
